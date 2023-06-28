@@ -1,5 +1,11 @@
+---
+marp: true
+---
+
 # school-presentations
 A place where I can make presentations through Marp and Markdown
+
+---
 
 ## What is this?
 So, I've recently discovered that Marp exists. This allows me to do stuff like:
@@ -8,11 +14,15 @@ So, I've recently discovered that Marp exists. This allows me to do stuff like:
 
 All of this results in me doing this very efficiently.
 
+---
+
 ## Why does this exist?
 > It's simple, it's breezy, it's fun, and it's easy.
 > -- Lex Wu
 
 There you go. 
+
+---
 
 ## Rules
 
