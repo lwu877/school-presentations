@@ -5,6 +5,7 @@ marp: true
 
 # lwu877/school-presentations
 A place where I can make presentations through Marp and Markdown
+![bg right](https://images.unsplash.com/photo-1675535833498-a516674dff2e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2338&q=80)
 
 ---
 
@@ -35,8 +36,53 @@ There you go.
 We can always work on Google Slides or MS Sway, but I find this easier to use.
 
 ---
+<!--
+_backgroundImage: "linear-gradient(to right, #000000, #8850A0 ,#FFCC70)"
+_color: white
+_linkcolor: white
+-->
+
+## Generally Helpful Stuff
+* [Chris Ayers](https://chris-ayers.com/2023/03/31/customizing-marp) has a really good page on how to format images. 
+* [Marp](https://marpit.marp.app/directives) has a page on directives (so you don't ruin the entire presentation with an orange background or something.)
+* You can take a look at some of the various examples I've put here.
+
+**(P.S: I'll probably take care of the formatting and backgrounds, so don't worry)**
+
+
+---
 
 ## Rules
 
 Find the folder you need. Only commit to the project at hand.
 (Yes, I have multiple projects in one folder. Please don't try and vandalise them. You can create as many pull requests as you want, but I'll only commit them if they actually contribute something.)
+
+## That should be everything!
+You can find a bunch of example slides below.
+
+---
+![bg](https://images.unsplash.com/photo-1660691139008-e7c351488812?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2338&q=80)
+
+---
+
+<!-- _color: white-->
+
+![bg sepia:1.0](https://images.unsplash.com/photo-1660691139097-a2c060d76bee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2338&q=80)
+![bg grayscale:1.0](https://images.unsplash.com/photo-1660691139359-a2f3685a0a1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2338&q=80)
+
+## Some text over here
+
+
+---
+
+![bg left:75%](https://images.unsplash.com/photo-1660691139359-cfc29e6e4ce2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2338&q=80)
+
+
+---
+
+![bg right contrast:25%](https://images.unsplash.com/photo-1660692185524-d86d4a839ef7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2338&q=80)
+
+---
+
+## Enjoy!
+For more information, contact Lex at [lwu877@vivaldi.net](mailto:lwu877@vivaldi.net).
