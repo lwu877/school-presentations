@@ -85,4 +85,4 @@ You can find a bunch of example slides below.
 ---
 
 ## Enjoy!
-For more information, contact Lex at [lwu877@vivaldi.net](mailto:lwu877@vivaldi.net).
+For more information, contact Lex.
