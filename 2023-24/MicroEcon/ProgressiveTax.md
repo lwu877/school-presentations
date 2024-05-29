@@ -115,7 +115,7 @@ _color: white -->
 
 <!-- _backgroundColor: black 
 _color: white 
-_footer: '[works cited](https://google.com)' -->
+_footer: '[works cited](https://github.com/lwu877/school-presentations/blob/working/2023-24/MicroEcon/ProgressiveTaxWC.md)' -->
 
 # Thanks for your time. 
 Tomatoes may now be thrown.
