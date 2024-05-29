@@ -21,8 +21,7 @@ A presentation butchered by Lex Wu
 
 ---
 
-![](https://imgs.xkcd.com/comics/personal_data.png)
-https://xkcd.com/1971 | xkcd by randall munroe, licensed under cc-na-nc 2.5
+![bg right:50%](https://images.pexels.com/photos/19927932/pexels-photo-19927932/free-photo-of-metro-train-in-new-york.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 # Why do we need a better system?
 - The rich aren't keeping enough of their money
@@ -76,15 +75,26 @@ _color: white -->
 - Property
 
 ---
+![bg right:50%](https://cdn.pixabay.com/photo/2023/08/22/10/52/city-8206042_1280.png)
 
 # Pros
 - No more pandering from rich people who say they pay too much taxes
+- "Fairness" isn't an issue
 
 ---
+![bg left:50%](https://cdn.pixabay.com/photo/2023/09/11/02/53/house-8245930_1280.jpg)
 
 # Cons
 - Low-income people still have more "livable minimum" taken than rich people
 - Not equitable
+
+---
+<!-- _backgroundColor: black 
+_color: white -->
+
+![bg](https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+# Final Thoughts
 
 ---
 
