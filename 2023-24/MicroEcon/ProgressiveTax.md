@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: '© 2024 lex wu / all rights reserved.'
+footer: '© 2024 lex wu / all rights reserved'
 ---
 
 ![bg left:50%](https://images.unsplash.com/photo-1450101499163-c8848c66ca85)
@@ -17,7 +17,7 @@ A presentation butchered by Lex Wu
     - Healthcare
     - [Abuse of public funding](https://en.wikipedia.org/wiki/Punxsutawney_Phil)
 - Paid on income (income), purchase (sales), & others (food, etc.)
-- Progressive tax system currently used
+- Progressive tax system currently used in USA
 
 ---
 
@@ -30,10 +30,21 @@ A presentation butchered by Lex Wu
 
 ---
 
+![bg left:50%](https://cdn.pixabay.com/photo/2017/01/23/09/52/water-2001912_1280.jpg)
+
 # What is the Proportional Tax?
-[lex, cue in the water bottles]
+- "Hey, everyone! Pay 30% of your income!"
+- Simple, easy to understand
+- Probably easier to understand than [what the IRS has](https://www.irs.gov/filing/federal-income-tax-rates-and-brackets)
 
 "If everyone pays the same proportion, everyone's equal"
+
+---
+<!-- _footer: "" -->
+
+![](/2023-24/MicroEcon/taxgraph.jpg)
+are you proud of my graph making skills
+pictoral and logo © 2024 lex wu / all rights reserved
 
 ---
 
@@ -43,7 +54,8 @@ write something about egypt or something like that here
 
 ---
 <!-- _backgroundColor: black 
-_color: white -->
+_color: white 
+_footer: ""-->
 
 ![bg right:50%](https://cdn.pixabay.com/photo/2020/06/28/00/04/chicago-5347435_1280.jpg)
 
@@ -53,6 +65,7 @@ _color: white -->
 - Idaho
 - Illinois
 - Indiana
+- Iowa*
 - Kentucky
 - Michigan
 - Mississippi
@@ -72,7 +85,7 @@ _color: white -->
 - Greenland, Russia, and Mongolia
 - (there's plenty more)
 
-## Taxes Proportional in Nature
+## Taxes proportional in Nature
 - Sales
 - Property
 
@@ -87,7 +100,7 @@ _color: white -->
 ![bg left:50%](https://cdn.pixabay.com/photo/2023/09/11/02/53/house-8245930_1280.jpg)
 
 # Cons
-- Low-income people still have more "livable minimum" taken than rich people
+- In terms of living costs, tax is still regressive
 - Not equitable
 
 ---
@@ -101,8 +114,9 @@ _color: white -->
 ---
 
 <!-- _backgroundColor: black 
-_color: white -->
+_color: white 
+_footer: '[works cited](https://google.com)' -->
 
 # Thanks for your time. 
 Tomatoes may now be thrown.
-© 2024 lex wu / all rights reserved.
+© 2024 lex wu / all rights reserved
