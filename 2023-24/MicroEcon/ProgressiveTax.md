@@ -45,9 +45,9 @@ write something about egypt or something like that here
 <!-- _backgroundColor: black 
 _color: white -->
 
-![bg right:60%](https://images.unsplash.com/photo-1676293963736-260e3b78e643)
+![bg right:50%](https://cdn.pixabay.com/photo/2020/06/28/00/04/chicago-5347435_1280.jpg)
 
-# Usage (income)
+# Usage (states)
 - Arizona
 - Colorado
 - Idaho
@@ -61,6 +61,8 @@ _color: white -->
 - Utah
 
 ---
+
+![bg left:50%](https://cdn.pixabay.com/photo/2015/09/14/23/35/globe-940369_1280.jpg)
 
 ## Estonia
 - Flat tax rate of 20%
