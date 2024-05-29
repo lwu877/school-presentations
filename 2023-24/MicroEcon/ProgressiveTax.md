@@ -1,14 +1,16 @@
 ---
 marp: true
 footer: '© 2024 lex wu / all rights reserved'
+paginate: true
 ---
-
+<!-- _paginate: skip -->
 ![bg left:50%](https://images.unsplash.com/photo-1450101499163-c8848c66ca85)
 
 # The Progressive Tax
 A presentation butchered by Lex Wu
 
 ---
+
 <!-- _backgroundColor:  -->
 
 # What are Taxes?
@@ -20,6 +22,7 @@ A presentation butchered by Lex Wu
 - Progressive tax system currently used in USA
 
 ---
+
 
 ![bg right:50%](https://images.pexels.com/photos/19927932/pexels-photo-19927932/free-photo-of-metro-train-in-new-york.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
@@ -40,11 +43,9 @@ A presentation butchered by Lex Wu
 "If everyone pays the same proportion, everyone's equal"
 
 ---
-<!-- _footer: "" -->
+<!-- _footer: "logo & graph © 2024 lex wu / all rights reserved" -->
 
-![](/2023-24/MicroEcon/taxgraph.jpg)
-are you proud of my graph making skills
-pictoral and logo © 2024 lex wu / all rights reserved
+![bg](https://github.com/lwu877/school-presentations/blob/working/2023-24/MicroEcon/taxgraph.jpg?raw=true)
 
 ---
 
@@ -114,6 +115,7 @@ _color: white -->
 ---
 
 <!-- _backgroundColor: black 
+_paginate: skip
 _color: white 
 _footer: '[works cited](https://github.com/lwu877/school-presentations/blob/working/2023-24/MicroEcon/ProgressiveTaxWC.md)' -->
 
