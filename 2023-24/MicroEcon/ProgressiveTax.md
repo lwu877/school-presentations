@@ -44,9 +44,10 @@ A presentation butchered by Lex Wu
 "If everyone pays the same proportion, everyone's equal"
 
 ---
+
 <!-- _footer: "logo & graph © 2024 lex wu / all rights reserved" -->
 
-![bg](https://github.com/lwu877/school-presentations/blob/MicroEcon/2023-24/MicroEcon/taxgraph.jpg?raw=true)
+![bg](https://github.com/lwu877/school-presentations/blob/final/2023-24/MicroEcon/taxgraph.jpg?raw=true)
 
 ---
 
