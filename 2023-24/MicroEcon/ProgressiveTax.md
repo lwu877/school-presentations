@@ -50,9 +50,17 @@ A presentation butchered by Lex Wu
 
 ---
 
-# Historical Usage
+<!-- _footer: "© 2024 lex wu / all rights reserved
 
-write something about egypt or something like that here
+Photo by Tataryn. Licensed under CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19625326" -->
+
+![bg right:50%](https://upload.wikimedia.org/wikipedia/commons/0/00/Roman_Empire_Trajan_117AD.png)
+
+# Historical Usage - the Romans
+
+- Initially started out w/ 1% tax rate
+- Didn't go so well
+- There's a reason it doesn't exist today
 
 ---
 <!-- _backgroundColor: black 
@@ -67,7 +75,7 @@ _footer: ""-->
 - Idaho
 - Illinois
 - Indiana
-- Iowa*
+- Iowa
 - Kentucky
 - Michigan
 - Mississippi
@@ -79,10 +87,12 @@ _footer: ""-->
 
 ![bg right:50%](https://images.unsplash.com/photo-1627727240079-2d3c29bf8a23)
 
-## Estonia
+# Estonia
+They used to be part of the USSR. We don't talk about that.
+
 - Flat income tax rate of 20%
 - Flat* VAT tax of 22%
-- Still has universal healthcare (take that, NHS)
+- NHS can suck it - this is better
 - Overall, great place to live
 
 ---
@@ -120,12 +130,18 @@ _color: white -->
 
 # Final Thoughts
 
+Did you think I was going to put a wall of text here?
+
+That's not how I roll.
+
+Checkmate.
+
 ---
 
 <!-- _backgroundColor: black 
 _paginate: skip
 _color: white 
-_footer: '[works cited](https://github.com/lwu877/school-presentations/blob/working/2023-24/MicroEcon/ProgressiveTaxWC.md)' -->
+_footer: '[works cited](https://github.com/lwu877/school-presentations/blob/final/2023-24/MicroEcon/ProgressiveTaxWC.md)' -->
 
 # Thanks for your time. 
 Tomatoes may now be thrown.
