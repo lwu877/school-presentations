@@ -13,6 +13,8 @@ A presentation butchered by Lex Wu
 
 <!-- _backgroundColor:  -->
 
+![bg left:50%](https://images.unsplash.com/photo-1570996642122-9ac033d0fd90)
+
 # What are Taxes?
 - Taxes help fund stuff like:
     - Roads
@@ -25,7 +27,7 @@ A presentation butchered by Lex Wu
 
 ![bg right:50%](https://images.pexels.com/photos/19927932/pexels-photo-19927932/free-photo-of-metro-train-in-new-york.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-# Why do we need a better system?
+# Why do we need something different?
 - The rich aren't keeping enough of their money
 - People need to keep their wealth
 - We can shut [Don Bolduc](https://en.wikipedia.org/wiki/Don_Bolduc#Political_positions) up
@@ -75,17 +77,24 @@ _footer: ""-->
 
 ---
 
-![bg left:50%](https://cdn.pixabay.com/photo/2015/09/14/23/35/globe-940369_1280.jpg)
+![bg right:50%](https://images.unsplash.com/photo-1627727240079-2d3c29bf8a23)
 
 ## Estonia
-- Flat tax rate of 20%
-- Lauded for its simplicity
+- Flat income tax rate of 20%
+- Flat* VAT tax of 22%
+- Still has universal healthcare (take that, NHS)
+- Overall, great place to live
 
-## Other Countries
+---
+
+![bg vertical left:50%](https://cdn.pixabay.com/photo/2015/09/14/23/35/globe-940369_1280.jpg)
+![bg vertical left](https://images.unsplash.com/photo-1556745757-8d76bdb6984b)
+
+# Other Countries
 - Greenland, Russia, and Mongolia
 - (there's plenty more)
 
-## Taxes proportional in Nature
+# Taxes proportional in Nature
 - Sales
 - Property
 
