@@ -23,7 +23,6 @@ A presentation butchered by Lex Wu
 
 ---
 
-
 ![bg right:50%](https://images.pexels.com/photos/19927932/pexels-photo-19927932/free-photo-of-metro-train-in-new-york.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 # Why do we need a better system?
