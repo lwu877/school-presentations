@@ -46,7 +46,7 @@ A presentation butchered by Lex Wu
 ---
 <!-- _footer: "logo & graph © 2024 lex wu / all rights reserved" -->
 
-![bg](https://github.com/lwu877/school-presentations/blob/working/2023-24/MicroEcon/taxgraph.jpg?raw=true)
+![bg](https://github.com/lwu877/school-presentations/blob/MicroEcon/2023-24/MicroEcon/taxgraph.jpg?raw=true)
 
 ---
 
@@ -95,7 +95,7 @@ _footer: ""-->
 - (there's plenty more)
 
 # Taxes proportional in Nature
-- Sales
+- Sales / VAT
 - Property
 
 ---
