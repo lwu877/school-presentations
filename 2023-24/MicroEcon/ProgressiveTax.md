@@ -42,9 +42,13 @@ A presentation butchered by Lex Wu
 ---
 <!-- _footer: "" -->
 
+<<<<<<< Updated upstream
 ![](/2023-24/MicroEcon/taxgraph.jpg)
 are you proud of my graph making skills
 pictoral and logo © 2024 lex wu / all rights reserved
+=======
+![bg](https://github.com/lwu877/school-presentations/blob/final/2023-24/MicroEcon/taxgraph.jpg?raw=true)
+>>>>>>> Stashed changes
 
 ---
 
