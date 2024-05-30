@@ -4,8 +4,8 @@ Horton, Melissa. “Regressive vs. Proportional vs. Progressive Taxes: What’s 
 
 Kagan, Julia. “Proportional Tax: What It Is and How It Works.” Investopedia, Investopedia, 3 Dec. 2023, www.investopedia.com/terms/p/proportionaltax.asp. 
 
-## Links to Format Correctly
+Kordas, Ann, et al. World History: To 1500. vol. 1, OpenStax, 2023.
 
-https://taxsummaries.pwc.com/estonia/individual/taxes-on-personal-income
+PricewaterCoopers. "Estonia Taxes on Personal Income." Worldwide Tax Summaries, 15 Jan. 2024, taxsummaries.pwc.com/estonia/individual/taxes-on-personal-income. Accessed 30 May 2024.
 
-https://taxsummaries.pwc.com/greenland/individual/taxes-on-personal-income
+PricewaterCoopers. "Greenland Taxes on Personal Income." Worldwide Tax Summaries, 6 Dec. 2023, taxsummaries.pwc.com/estonia/individual/taxes-on-personal-income. Accessed 30 May 2024.
